@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Seviye1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Seviye2.unity
+    guid: 49e5c20a36c1ef942be9b14250449b7e
+  - enabled: 1
+    path: Assets/Scenes/Seviye3.unity
+    guid: 9d2cc39a215e88c4a8f8097e5124b3a4
+  - enabled: 1
+    path: Assets/Scenes/Kazanma.unity
+    guid: a657b24a92e70964b995b5cec36e94cf
+  - enabled: 1
+    path: Assets/Scenes/Tanitim.unity
+    guid: c0c1b621dc6dd0f49911297c4e6587bf
+  - enabled: 1
+    path: Assets/Scenes/Kaybetme.unity
+    guid: b509d55300116d64cbe96ce31a00e016
+  m_configObjects: {}
